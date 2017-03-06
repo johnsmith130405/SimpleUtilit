@@ -1,2 +1,4 @@
 # SimpleUtilit
-Simple utilit for mail-sending
+
+
+Really simple, but really smart
